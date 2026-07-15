@@ -79,16 +79,6 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer with a passion for buil
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AFRADOX&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFRADOX&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:58A6FF&height=120&section=footer" />
