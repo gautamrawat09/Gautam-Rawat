@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam</h1>
-<h3 align="center">🚀 Full-Stack Developer | React.js • Spring Boot • Node.js | Google Cloud Certified</h3>
+<h3 align="center">🚀 Full-Stack Developer | React.js • Spring Boot • Node.js</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&background=00000000&width=600&lines=Full-Stack+Developer;React.js+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+apps+%F0%9F%9A%80;Google+Cloud+Certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8957E5&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
